@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CRIB</string>
+    <string name="please_enter_mobile_number">Please enter mobile number</string>
+    <string name="please_enter_no_of_days">Please enter number of days</string>
+    <string name="submit">Submit</string>
+    <string name="sorry_no_messages_found">Sorry, no messages found</string>
+    <string name="number_of_messages_found">number of messages found</string>
+</resources>
